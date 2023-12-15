@@ -1,11 +1,11 @@
-Qu'est-ce qu'un porte-greffe ?
+--Qu'est-ce qu'un porte-greffe ? --
 
 Un porte-greffe est un jeune arbre ou arbuste que l’on coupe pour supprimer les parties aériennes. 
 Ce qui nous intéresse sur le porte-greffe est son système racinaire ( résistance, taille,...)
 
 
 
-Quel est le rôle du porte-greffe ?
+--Quel est le rôle du porte-greffe ? --
 
 Le porte-greffe joue un rôle crucial dans la greffe des plantes. Voici quelques-uns de ses rôles principaux :
 
@@ -21,7 +21,7 @@ En résumé, le porte-greffe est essentiel pour la survie et la productivité de
 
 
 
-Voici les principaux critères à prendre en compte lors du choix d'un porte-greffe :
+-- Voici les principaux critères à prendre en compte lors du choix d'un porte-greffe : --
 
 1. Compatibilité avec le greffon : Le porte-greffe doit être compatible avec le greffon, c'est-à-dire qu'il doit être proche du greffon au niveau génétique (donc du même genre botanique, ou au moins de la même famille).
 
@@ -44,10 +44,10 @@ En résumé, le choix du porte-greffe est une décision importante qui peut infl
 
 
 
-Quels sont les différents porte-greffes utilisés et lequel choisir ?
+-- Quels sont les différents porte-greffes utilisés et lequel choisir ? --
 
 
-Pour les rosiers :
+- Pour les rosiers :
 
 Eglantiers (Rosa canina) : Les rosiers sont souvent greffés sur des églantiers. Ces derniers ont l’avantage d’être adaptés aux sols calcaires, d’être bien rustiques et assez résistants à la sécheresse.
 
@@ -55,7 +55,8 @@ Rosa multiflora : bien adapté pour les rosiers qui seront cultivés en pot, car
 
 Rosa laxa : adapté aux sols calcaires.
 
-Pour les agrumes :
+
+- Pour les agrumes :
 
 Poncirus trifoliata : c’est l’arbuste le plus souvent utilisé pour greffer les agrumes. Il a l’avantage d’être bien rustique. Cependant, il faut savoir qu’il ne tolère pas le calcaire, mais est bien adapté aux terrains acides.
 
@@ -69,7 +70,8 @@ Poncirus trifoliata ‘Flying Dragon’ : Ce porte-greffe de pousse très lente 
 
 C35 : très vigoureux1,il est rustique jusqu’à environ -10/-11 degrés ,il est tolérant au calcaire et aux ‘zones sèches’, mais il est sensible aux sols argileux et humides.
 
-Pour les pommiers :
+
+- Pour les pommiers :
 
 Les variétés qui servent de porte-greffe pour les pommiers sont généralement des clones, obtenus par multiplication végétative, et désignés par la lettre M suivie d’un nombre.
 
@@ -87,7 +89,7 @@ Pommier franc ‘Bittenfelder’ : Très vigoureux, bien rustique et peu exigean
 
 
 
-Pour les poiriers :
+- Pour les poiriers :
 
 Poirier franc : Il a l’avantage d’être bien vigoureux, peu exigeant et peu sensible au calcaire. Il est parfait pour les formes de plein vent, et a un enracinement profond. Meilleure durée de vie que les poiriers greffés sur cognassier, mais la mise à fruit est assez tardive (3 à 7 ans).
 
@@ -110,7 +112,7 @@ Poirier de Chine (Pyrus calleryana) : Utilisé pour greffer le Nashi.
 Aubepines : La greffe sur aubépine est également compatible avec les poiriers. Bien que ces deux espèces soient de familles différentes, elles partagent des caractéristiques similaires qui permettent une bonne union entre le greffon et le porte-greffe.
 
 
-Pour les cerisiers :
+- Pour les cerisiers :
 
 Merisier (Prunus avium) : Il s’agit d’un cerisier sauvage, spontané. Il est bien vigoureux, et se plait dans une terre riche, fraiche et humifère.
 
@@ -125,7 +127,7 @@ Maxma Delbard 14 ® : C’est un porte-greffe mi-nanifiant qui convient bien au 
 Merisier F12.1 : De très forte vigueur, il convient pour les hautes tiges.
 
 
-Pour les pruniers :
+- Pour les pruniers :
 
 Prunier myrobolan (Prunus cerasifera) :C’est le porte-greffe le plus courant pour le prunier. Il est très vigoureux, approprié pour les pruniers de plein vent ou en demi-tige car offrant un bon ancrage. Il est peu exigeant quant au terrain. Il est adapté aux sols secs et caillouteux, et tolère le calcaire. La mise à fruits et rapide, mais il a tendance à produire de nombreux rejets.
 
@@ -135,7 +137,8 @@ Prunier mariana : Il s’agit d’un porte-greffe polyvalent et peu exigeant. Il
 
 Franc : C’est un porte-greffe vigoureux, qui peut se développer sur des sols peu fertiles.
 
-Pour les pêchers :
+
+- Pour les pêchers :
 
 Pêcher franc : Il convient bien aux sols profonds, non calcaires. Bien vigoureux, il est parfait pour les demi-tiges et hautes-tiges.
 
@@ -152,7 +155,7 @@ Rubira ® : Vigueur moyenne, plus faible que GF 305, pour gobelets et petites fo
 Julior Ferdor ® : De moyenne vigueur, pour gobelet, petites formes, il accepte toutes les variétés, et même les espèces prunier et amandier. Il admet les sols lourds un peu calcaire. Sa mise à fruits est rapide.
 
 
-Pour les abricotiers :
+- Pour les abricotiers :
 
 Prunier myrobolan (Prunus cerasifera) : Peu exigeant, il convient à tout type de sol, y compris les sols secs, humides ou calcaires. Adapté aux formes demi ou haute-tige.
 
@@ -172,7 +175,7 @@ Julior Ferdor ® : Hybride de Saint Julien d’Orléans, il se plaît en sols pe
 Torinel-avifel ® : De faible vigueur pour petites formes.
 
 
-Pour les amandiers :
+- Pour les amandiers :
 
 Prunier myrobolan : Adapté à tout type de sol, même sec, mal drainé ou calcaire.
 
@@ -184,7 +187,8 @@ Abricotier franc : Il donnera une bonne production, et sera adapté à des sols 
 
 Prunier franc : Celui-ci est le moins utilisé, car il donne des arbres à longévité moindre. Cependant, c’est le seul porte-greffe adapté pour des régions plus humides, au sol plus argileux notamment.
 
-Pour les cognassiers :
+
+- Pour les cognassiers :
 
 Cognassier de Provence (BA29) : accepte les sols secs et calcaires. Productif, mise à fruit rapide.
 
@@ -194,7 +198,8 @@ Cognassier franc : pour les sols frais et argileux, non calcaires. Mise à fruit
 
 Sorbier des oiseleurs : Il résiste très bien au froid4. Se plaît en sols légers, pauvres et peut mesurer jusqu’à 20 mètres de haut4. Pour tiges.
 
-Pour les noyers :
+
+- Pour les noyers :
 
 Noyer franc Juglans regia : pour tout type de sol, particulièrement adapté aux terrains calcaires. Vigoureux, bonne productivité.
 

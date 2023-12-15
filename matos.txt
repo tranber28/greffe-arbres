@@ -1,6 +1,6 @@
-Pour greffer des arbres, vous aurez besoin du matériel suivant :
+ -- Pour greffer des arbres, vous aurez besoin du matériel suivant :  --
 
-- Une serpette ou un greffoir ou un cutter ou un couteau qui coupe : Ce sont des couteaux utilisés pour prélever les greffons ou pour fendre les sujets à greffer.
+- Une serpette, un greffoir , un cutter ou un couteau qui coupe : Ce sont des couteaux utilisés pour prélever les greffons ou pour fendre les sujets à greffer.
 
 - Une scie: Nécessaire pour couper la tige ou la tête des gros sujets et les branches fortes.
 
