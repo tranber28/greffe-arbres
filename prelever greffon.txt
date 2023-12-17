@@ -18,7 +18,7 @@ La solution étant d’induire un décalage de végétation, en rallongeant la p
 
 -- La bonne période de recolte de greffon --
 
-il faut que le porte-greffon est à l’arrêt total de végétation, et cela  varie  en fonction des espèces,de l'atiltude et de l'expositions, ça peut être :
+il faut que le porte-greffon soit à l’arrêt total de végétation, et cela  varie  en fonction des espèces,de l'atiltude et de l'expositions, cela peut être en :
 
 - Décembre-janvier : cerisier, pruniers, pêchers, amandiers…
 
@@ -26,7 +26,7 @@ il faut que le porte-greffon est à l’arrêt total de végétation, et cela  v
 
 - Février- mars : noyers, châtaigniers...
 
-
+- Presque toutes l'année si greffe en chip-budding pour certaine variété ( et mise en serre chauffée et contrôlée ...)
 
 
 --  Définir ses critères de sélection--
@@ -60,7 +60,7 @@ Plusieurs règles à respecter ici :
 
 - Récoltez les greffons en hiver, entre janvier et février pour les espèces précoces type prunier, abricotier, amandier, cerisier et jusqu’à début mars pour les espèces plus tardives ou plus haut en altitude.
 
-- Recolter les greffons en été ou une autre periode est possible, suivant les techniques de greffe et variete,  mais cela doit etre tres rapide et evitez les heures les plus chaudes.
+- Recolter les greffons en été ou une autre periode est possible, suivant les techniques de greffe et variete,  mais cela doit etre très rapide et evitez les heures les plus chaudes.
 
 - S’organiser arbre par arbre pour bien étiqueter chaque variété, et ne pas les mélanger. Si besoin, recouper les greffons et les attacher par botte avec des élastiques avant de les emballer.
 
