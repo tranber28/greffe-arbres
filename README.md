@@ -1,7 +1,7 @@
 # greffe-arbres
 petit wiki perso sur la greffe d'arbre
 
-il y a plusieur fichier qui permetrons de developer un petit atelier greffe :
+il y a plusieur fichier qui permetrons de ce repérer :
  - un caledrier sur les greffes 
 - prelevement greffons
 - matos
