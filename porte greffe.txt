@@ -1,7 +1,7 @@
---Qu'est-ce qu'un porte-greffe ? --
+﻿--Qu'est-ce qu'un porte-greffe ? --
 
 Un porte-greffe est un jeune arbre ou arbuste que l’on coupe pour supprimer les parties aériennes. 
-Ce qui nous intéresse sur le porte-greffe est son système racinaire ( résistance, taille,...)
+Ce qui nous intéresse sur le porte-greffe est son système racinaire (résistance, taille,...)
 
 
 
@@ -12,11 +12,11 @@ Le porte-greffe joue un rôle crucial dans la greffe des plantes. Voici quelques
 1. Système racinaire : Le porte-greffe fournit au greffon son système racinaire. Il permet donc à celui-ci de se nourrir, de puiser dans le sol de l’eau et des éléments minéraux. C'est donc un élément essentiel pour la croissance de la plante et la mise à fruits.
 
 2. Adaptation au sol : Le porte-greffe a pour principale mission d’adapter une même variété de fruits à des sols différents. 
-3. Resistance: Le choix du porte-greffe joue sur la résistance aux maladies, aux parasites et au froid.
+3. Résistance: Le choix du porte-greffe joue sur la résistance aux maladies, aux parasites et au froid.
 
-4. Productivité : Un bon porte-greffe permet d’optimiser la productivité d’un arbre .
+4. Productivité : Un bon porte-greffe permet d’optimiser la productivité d’un arbre.
 
-En résumé, le porte-greffe est essentiel pour la survie et la productivité de la plante greffée. Il lui fournit un système racinaire robuste, l'aide à s'adapter à différents types de sols et lui confère une résistance aux maladies et aux conditions climatiques..
+En résumé, le porte-greffe est essentiel pour la survie et la productivité de la plante greffée. Il lui fournit un système racinaire robuste, l'aide à s'adapter à différents types de sols et lui confère une résistance aux maladies et aux conditions climatiques...
 
 
 
@@ -29,15 +29,15 @@ En résumé, le porte-greffe est essentiel pour la survie et la productivité de
 
 3.  Forme définitive de l’arbre : Le choix du porte-greffe influence la forme définitive de l'arbre.
 
-4.  Nature du sol  : Le porte-greffe doit être adapté à la nature du sol.
+4.  Nature du sol : Le porte-greffe doit être adapté à la nature du sol.
 
-5.  Besoins du greffon  : Les besoins du greffon en fonction de sa variété .
+5.  Besoins du greffon : Les besoins du greffon en fonction de sa variété.
 
-6.  Résistance aux maladies et au froid  : Le porte-greffe doit être résistant aux maladies et au froid.
+6.  Résistance aux maladies et au froid : Le porte-greffe doit être résistant aux maladies et au froid.
 
-7.  Productivité  : Le porte-greffe doit permettre d'optimiser la productivité de l'arbre.
+7.  Productivité : Le porte-greffe doit permettre d'optimiser la productivité de l'arbre.
 
-8.  Vigueur  : Le porte-greffe doit être vigoureux et avoir un système racinaire bien développé.
+8.  Vigueur : Le porte-greffe doit être vigoureux et avoir un système racinaire bien développé.
 
 En résumé, le choix du porte-greffe est une décision importante qui peut influencer de nombreux aspects de la croissance et de la productivité de la plante.
 
@@ -68,7 +68,7 @@ Citrange Carrizo : Mise à fruit rapide et bonne productivité.
 
 Poncirus trifoliata ‘Flying Dragon’ : Ce porte-greffe de pousse très lente est utilisé pour produire des variétés naines.
 
-C35 : très vigoureux1,il est rustique jusqu’à environ -10/-11 degrés ,il est tolérant au calcaire et aux ‘zones sèches’, mais il est sensible aux sols argileux et humides.
+C35 : très vigoureux1, il est rustique jusqu’à environ -10/-11 degrés, il est tolérant au calcaire et aux ‘zones sèches’, mais il est sensible aux sols argileux et humides.
 
 
 - Pour les pommiers :
@@ -122,7 +122,7 @@ Cerisier franc, Cerasus communis : Bien vigoureux, il est adapté pour les forme
 
 Tabel®édabriz : C’est un porte-greffe nanifiant utilisé par les professionnels pour les petits espaces et pour les jardinières sur les balcons.
 
-Maxma Delbard 14 ® : C’est un porte-greffe mi-nanifiant qui convient bien au gobelet et est compatible avec un grand nombre de variétés de cerises1.
+Maxma Delbard 14 ® : C’est un porte-greffe mi- nanifiant qui convient bien au gobelet et est compatible avec un grand nombre de variétés de cerises1.
 
 Merisier F12.1 : De très forte vigueur, il convient pour les hautes tiges.
 
@@ -140,7 +140,7 @@ Franc : C’est un porte-greffe vigoureux, qui peut se développer sur des sols 
 
 - Pour les pêchers :
 
-Pêcher franc : Il convient bien aux sols profonds, non calcaires. Bien vigoureux, il est parfait pour les demi-tiges et hautes-tiges.
+Pêcher franc : Il convient bien aux sols profonds, non calcaires. Bien vigoureux, il est parfait pour les demi-tiges et hautes tiges.
 
 Prunier St Julien : De vigueur moyenne, il est idéal pour les formes en basse tige et espalier. Il est adapté aux sols lourds et humides. Il est bien rustique et supporte le calcaire.
 
@@ -152,12 +152,12 @@ Pêcher X amandier GF 677 ® : De grande vigueur, il est pour tiges et demi-tige
 
 Rubira ® : Vigueur moyenne, plus faible que GF 305, pour gobelets et petites formes. Il supporte tous les sols, même asphyxiants, mais pas trop calcaire. Il résiste aux pucerons et à la bactériose.
 
-Julior Ferdor ® : De moyenne vigueur, pour gobelet, petites formes, il accepte toutes les variétés, et même les espèces prunier et amandier. Il admet les sols lourds un peu calcaire. Sa mise à fruits est rapide.
+Julior Ferdor ® : De moyenne vigueur, pour gobelet, petites formes, il accepte toutes les variétés, et même les espèces prunier et amandier. Il admet les sols lourds un peu calcaires. Sa mise à fruits est rapide.
 
 
 - Pour les abricotiers :
 
-Prunier myrobolan (Prunus cerasifera) : Peu exigeant, il convient à tout type de sol, y compris les sols secs, humides ou calcaires. Adapté aux formes demi ou haute-tige.
+Prunier myrobolan (Prunus cerasifera) : Peu exigeant, il convient à tout type de sol, y compris les sols secs, humides ou calcaires. Adapté les formes demies ou haute-tige.
 
 Prunier St Julien : adapté pour tout type de sol, formes buissonnantes et palmettes.
 
@@ -203,4 +203,4 @@ Sorbier des oiseleurs : Il résiste très bien au froid4. Se plaît en sols lég
 
 Noyer franc Juglans regia : pour tout type de sol, particulièrement adapté aux terrains calcaires. Vigoureux, bonne productivité.
 
-Noyer franc d’Amérique : vigoureux, pour sols riches et frais. mise à fruit rapide (environ 5 ans).
+Noyer franc d’Amérique : vigoureux, pour sols riches et frais. Mise à fruit rapide (environ 5 ans).

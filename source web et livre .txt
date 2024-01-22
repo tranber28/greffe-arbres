@@ -1,4 +1,4 @@
-livre :
+﻿Livre :
 
 
 Le greffage et la plantation des arbres fruitiers  Evelyne Leterme
@@ -11,7 +11,7 @@ L’Art de greffer: https://fr.wikisource.org/wiki/L%E2%80%99Art_de_greffer
 
 Greffer tous les arbres de Gaston guingois
 
-faites pousser vos noyaux et pépins
+Faites pousser vos noyaux et pépins
 
 
 forum/site:

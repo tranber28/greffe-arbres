@@ -1,41 +1,41 @@
-calendrier de greffe en format texte:
+﻿Calendrier de greffe en format texte:
 
-variété arbre   /  porte greffe     / types greffe     / mois 
+Variété arbre   /  porte greffe     / types greffe     / mois 
 
 
--- Abricotier / franc ; prunier ; pêcher franc / ( en incrustation ;a l’anglaise / avril ) //  (en écusson  / août )
+-- Abricotier / franc ; prunier ; pêcher franc / (en incrustation ; à l’anglaise / avril) //  (en écusson  / août)
  
--- Cerisier   / franc ; merisier ; st Lucie  / (en fente ; a l'incrustation ; a l’anglaise  / avril et septembre )  // (en écusson / août )
+-- Cerisier   / franc ; merisier ; st Lucie  / (en fente ; à l'incrustation ; à l’anglaise  / avril et septembre)  // (en écusson / août)
 
--- Châtaigner   /   châtaigner français ; châtaigner japonais / (en fente ; a l'anglaise ; en flute /avril) // (en écusson ; août et septembre  )
+-- Châtaigner   /   châtaigner français ; châtaigner japonais / (en fente ; à l'anglaise ; en flute /avril) // (en écusson ; août et septembre)
 
--- Cognassier   / cognassier / (en fente ; a l’anglaise / avril )  // (en écusson / juillet et août )
+-- Cognassier   / cognassier / (en fente ; à l’anglaise / avril)  // (en écusson / juillet et août)
 
--- Figuier  / figuier  / ( en couronne / mai )
+-- Figuier  / figuier  / (en couronne / mai)
 
--- groseillier	/ semis ou bouture	/ (en fente ordinaire	/ avril ) // (en placage ; septembre )
+-- groseillier	/ semis ou bouture	/ (en fente ordinaire	/ avril) // (en placage ; septembre)
 
--- kiwi	  / actinidia chinensis	/ ( en fente ordinaire ; a l'anglaise / mars )
+-- kiwi	  / actinidia chiennais	/ (en fente ordinaire ; à l'anglaise / mars)
 
--- marronnier / marronnier d'inde	/( a  l'anglaise de bourgeon terminal / février et avril ) // (en couronne ; mars et avril)
+-- marronnier / marronnier d'inde	/ (à  l'anglaise de bourgeon terminal / février et avril) // (en couronne ; mars et avril)
 
--- néflier du japon	/ eriobotrya ; aubépine ; cognassier commun /	(en écusson	/ août et septembre )
+-- néflier du japon	/ eriobotrya ; aubépine ; cognassier commun /	(en écusson	/ août et septembre)
 
 -- noyer	noyer commun	en fente au collet	
-	noyer d’Amérique	en fente terminal	
-		en couronne	
+	Noyer d’Amérique	en fente terminal 
+                       En couronne	
 
--- olivier / olivier ; oléastre / (en placage / mai et juin) // (en couronne / mai )
+-- olivier / olivier ; oléastre / (en placage / mai et juin) // (en couronne / mai)
 
--- pêcher / pêcher ; prunier ; amandier / ( en écusson / août et septembre)
+-- pêcher / pêcher ; prunier ; amandier / (en écusson / août et septembre)
 
--- poirier	/ franc ; cognassier ; aubépine /  ( en fente ordinaire ; en incrustation ; a l'anglaise / mars ) //  (en écusson / juillet et août ) // (en couronne / avril et mai )
+-- poirier	/ franc ; cognassier ; aubépine /  (en fente ordinaire ; en incrustation ; à l'anglaise / mars) //  (en écusson / juillet et août) // (en couronne / avril et mai)
 
--- pommier /franc ;	doucin ;paradis /   ( en fente ordinaire ; en incrustation ; a l'anglaise / mars ) //  (en écusson / août et septembre ) // (en couronne / avril et mai )
+-- pommier /franc ;	doucin ; paradis /   (en fente ordinaire ; en incrustation ; à l'anglaise / mars) //  (en écusson / août et septembre) // (en couronne / avril et mai)
 
--- prunier / st julien ; damas ; myrobolan /	( en fente ordinaire ; en incrustation / mars et septembre ) // (en écusson / juillet )
+-- prunier / st julien ; damas ; myrobolan /	(en fente ordinaire ; en incrustation / mars et septembre) // (en écusson / juillet)
 
--- rosier	/ rosier ; églantier / 		( en fente ordinaire ; a l'anglais / septembre a février ) // (en écusson  / mai a août  )
+-- rosier	/ rosier ; églantier / 		(en fente ordinaire ; à l'anglais / septembre a février) // (en écusson  / mai à août)
 
--- vigne / franc ; vigne américaine /  ( a l'anglaise / mars et avril )
+-- vigne / franc ; vigne américaine /  (à l'anglaise / mars et avril)
 		

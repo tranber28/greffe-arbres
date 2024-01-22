@@ -1,4 +1,4 @@
-
+﻿
 Il existe plusieurs techniques de greffe d'arbres, chacune adaptée à des situations spécifiques.
 
 Chaque technique a ses propres avantages et inconvénients, et le choix dépend de facteurs tels que la saison, l'espèce à greffer, la taille du porte-greffe, ainsi que les compétences et les préférences du greffeur. Il est important de choisir la technique appropriée pour assurer le succès de la greffe.
@@ -8,19 +8,15 @@ On peut greffer au printemps, greffe à œil poussant, le rameau se développe l
 -- Conditions pour la réussite de la greffe. --
 
 La greffe est une technique délicate qui suppose l’observation stricte d’un certain nombre de 
-règles. 
-La  polarité.  Il  est  essentiel  de  respecter  le  sens  de  l’orientation  des  parties  à  mettre  en 
-contact. En d’autres termes, il faut respecter le sens de la sève. 
-Le contact des zones génératrices ou de cambium. Pour qu’une soudure complète puisse se 
-produire, il faut que les zones de cambium se touchent et restent en contact au moins en un 
-point. Pour  favoriser  la  soudure,  il  faut  pratiquer  des  coupures  nettes,  avec  des  instruments  bien 
-affûtés, qui ne laissent pas de rides sur les superficies en contact.      
+Règles. 
+La  polarité.  Il  est  essentiel  de  respecter  le  sens  de  l’orientation  des  parties  à  mettre  en contact. En d’autres termes, il faut respecter le sens de la sève. 
+Le contact des zones génératrices ou de cambium. Pour qu’une soudure complète puisse se produire, il faut que les zones de cambium se touchent et restent en contact au moins en un point. Pour  favoriser  la  soudure,  il  faut  pratiquer  des  coupures  nettes,  avec  des  instruments  bien affûtés, qui ne laissent pas de rides sur les superficies en contact.      
 
 -- Pour déterminer si une greffe a réussi--
 
- il y a plusieurs signes à surveiller:
+ Il y a plusieurs signes à surveiller:
 
-1. Le pétiole doit tomber de lui-même : Si la greffe est réussie, alors le pétiole (la petite tige qui relie la feuille à la branche) doit tomber de lui-même environ 21jours apres la greffe ou aux mois d'octobre-novembre .
+1. Le pétiole doit tomber de lui-même : Si la greffe est réussie, alors le pétiole (la petite tige qui relie la feuille à la branche) doit tomber de lui-même environ 21jours après la greffe ou aux mois d'octobre-novembre.
 2. La couleur du pétiole : En revanche, si le pétiole noircit, se dessèche et ne tombe pas, alors la greffe aura échoué.
 3. Le point de greffe : Au début du printemps suivant, vous pourrez couper le sujet au-dessus du point de greffe.
 
@@ -34,7 +30,7 @@ Il est important de noter que ces signes peuvent varier en fonction du type de g
 
 --La greffe en fente--
 
- C'est une méthode souvent utilisée par les jardiniers amateurs car elle est relativement facile à réaliser.Les professionnels l’utilisent rarement excepté pour former des arbres à tige selon une variante appelée « greffe en fente terminale ». Elle consiste à fendre le porte-greffe et à y insérer un ou plusieurs greffons.
+ C'est une méthode souvent utilisée par les jardiniers amateurs car elle est relativement facile à réaliser. Les professionnels l’utilisent rarement excepté pour former des arbres à tige selon une variante appelée « greffe en fente terminale ». Elle consiste à fendre le porte-greffe et à y insérer un ou plusieurs greffons.
 
 La greffe en fente a l’inconvénient d’être mutilante car elle oblige à fendre le porte-greffe entraînant un bourrelet de greffe assez disgracieux.
 
@@ -54,7 +50,7 @@ Avec la base de la lame du greffoir ou d’une serpette, fendez le centre de la 
 
 Prélevez le greffon, un tronçon de rameau de 1 an (dernière pousse des branches), qui comporte 2 ou 3 yeux (bourgeons).
 Coupez environ 2 cm en dessous de l’œil de la base.
-De part et d’autre de l’œil, effectuez une taille en biseau double, en partant 5 mm en dessous du niveau de ce bourgeon. Opérez d’un seul geste franc et précis, avec une serpette ou un greffoir bien affûtés. Le biseau doit s’affiner vers la base pour favoriser son insertion dans la fente du porte-greffe.
+De part et d’autre de l’œil, effectuez une taille en biseau double, en partant 5 mm en dessous du niveau de ce bourgeon. Opérez d’un seul geste franc et précis, avec une serpette ou un greffoir bien affûter. Le biseau doit s’affiner vers la base pour favoriser son insertion dans la fente du porte-greffe.
 Glissez une cale (lame ou tournevis) dans la fente pour écarter légèrement les bords puis insérez le greffon biseauté, légèrement en force, surtout pas au centre mais vers un des bords de la fente. Les couches fines de cambium* légèrement plus sombres ou verdâtres, situées juste sous l’écorce doivent en effet se juxtaposer pour se souder. Par précaution, vous pouvez  incliner légèrement le greffon pour assurer que ces 2 couches se retrouvent en contact.
 Retirez la cale.
 
@@ -73,8 +69,8 @@ Important : Si le diamètre du greffon est beaucoup plus faible que celui du por
 -Quand réaliser la greffe en couronne ?
 
 La greffe en couronne se réalise un peu après la greffe en fente, lorsque la sève a envahi le porte-greffe de manière à ce que l’écorce se décolle aisément:
-fin mars pour cerisiers et pruniers,
-début à mi-avril pour les pommiers et poiriers voire en mai selon la région.
+Fin mars pour cerisiers et pruniers,
+Début à mi-avril pour les pommiers et poiriers voire en mai selon la région.
 
 - Comment préparer les greffons et le porte-greffe ?
 
@@ -108,7 +104,7 @@ L’hiver suivant, sélectionnez les greffons qui ont pris : gardez en un par zo
 
 - Quand réaliser la greffe en écusson ?
 Selon les espèces, la greffe en écusson se réalise au printemps ou en été :
-En mars, avant que les bourgeons ne gonflent, on parle de greffe « à œil poussant », car le départ en végétation se fait dans les semaines qui suivent. Les greffons sont prélevés alors fin janvier-début février et sont conservés à 4°C dans une poche plastique. La greffe à œil poussant se pratique aussi dans le sud de la France entre début juin et et début juillet, avec des greffons peu lignifiés prélevés en même temps.
+En mars, avant que les bourgeons ne gonflent, on parle de greffe « à œil poussant », car le départ en végétation se fait dans les semaines qui suivent. Les greffons sont prélevés alors fin janvier-début février et sont conservés à 4°C dans une poche plastique. La greffe à œil poussant se pratique aussi dans le sud de la France entre début juin et début juillet, avec des greffons peu lignifiés prélevés en même temps.
 De la mi-juillet à début septembre pour les greffes « à œil dormant », car le départ en végétation ne se fera qu’au printemps suivant.
 
 
@@ -124,7 +120,7 @@ Choisissez un œil du greffon bien formé, plutôt au centre du rameau, à l’a
 Avec le greffoir, incisez à environ 1,5 cm au-dessous et au-dessus de l’œil puis glissez la lame du greffoir sous l’écorce, de haut en bas, sans rentrer trop dans le bois.
 Une fois l’écusson prélevé, retournez-le et ôtez la languette de bois si nécessaire avec  la spatule du greffoir.
 Sur une zone dégagée d’un rameau du porte-greffe, réalisez une incision en T assez superficielle (jusqu’au cambium). Décollez délicatement l’écorce sur les 2 côtés avec la spatule du greffoir.
-Glissez l’écusson dans l’encoche puis recoupez horizontalement la partie supérieure dépassant du T afin que les bords des écorces respectives soient bien appliquées l’une contre l’autre.
+Glissez l’écusson dans l’encoche puis recoupez horizontalement la partie supérieure dépassant du T afin que les bords des écorces respectives soient bien appliqués l’une contre l’autre.
 
 -Les finitions
 Ligaturez la greffe avec des Flexibandes ou du raphia humide afin que les tissus soient bien appliqués l’un contre l’autre, en faisant attention à ne pas recouvrir le bourgeon.
@@ -147,13 +143,13 @@ Elle se pratique généralement début mars lorsque la sève commence à monter 
 -Comment faire une greffe à l’anglaise ?
 Utilisez des portions de rameaux de 1 an (correspondant à la dernière pousse), munies de 2 yeux (bourgeons à bois). Les gourmands, ces rejets vigoureux verticaux qui ne portent que des bourgeons à bois sont parfaits. Le porte-greffe doit présenter un diamètre proche du greffon à moins de réaliser une greffe double en plaçant 2 greffons de part et d’autre du tronc.
 Réalisez une taille en biais sur le porte-greffe et le greffon puis afin de donner plus de maintien entre les 2 organes, fendez verticalement les 2 biseaux afin qu’ils s’imbriquent bien.
-greffe anglaise
+Greffe anglaise
 Dessin d’une greffe à l’anglaise
 
 -Les finitions
 Ligaturez la greffe avec des élastiques à greffer Flexibande ou du ruban adhésif pour électricien.
 Mastiquez toutes les plaies autour de la greffe y compris le sommet du greffon, en évitant de recouvrir le ruban élastique afin que le soleil puisse le dégrader à temps.
-greffe anglaise
+Greffe anglaise
 
 --
 La greffe en chip-budding --
@@ -171,7 +167,7 @@ Cette technique peut être pratiquée une bonne partie de l'année contrairement
 
 
 --La greffe en incrustation--
- également appelée greffe en V, est une technique de greffage qui est similaire à la greffe en fente, mais qui est moins traumatisante pour le porte-greffe.
+ Également appelée greffe en V, est une technique de greffage qui est similaire à la greffe en fente, mais qui est moins traumatisante pour le porte-greffe.
   Voici comment elle se déroule :
 
 -Quand et comment procéder ?
@@ -217,7 +213,7 @@ Puis ligaturez le tout.
 
 
 
--- Il existe de nombreuse autres techniques de greffe--
+-- Il existe de nombreuses autres techniques de greffe--
 
 La greffe des tomates
 La greffe anglaise au galop
@@ -238,3 +234,4 @@ La greffe par approche
 La greffe-bouture de la vigne
 
 ................
+

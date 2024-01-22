@@ -1,6 +1,6 @@
----Pourquoi greffés les fruitiers ? --
+﻿---Pourquoi greffés les fruitiers ? --
 
-Les arbres fruitiers, pommiers, poiriers, pruniers, cerisiers,agrumes..., sont souvent greffés .  Les deux principales raison sont : pouvoir reproduire fidèlement une variété et pouvoir adapter un fruitier à son sol.
+Les arbres fruitiers, pommiers, poiriers, pruniers, cerisiers, agrumes..., sont souvent greffés.  Les deux principales raison sont : pouvoir reproduire fidèlement une variété et pouvoir adapter un fruitier à son sol.
 
 
 Une graine d'un arbre est une fécondation croisée entre une même espèce. Cette graine donnera un arbre avec des caractéristiques mêlées des deux parents. C'est parfois bien pour obtenir une nouvelle variété, mais ça ne va pas si on souhaite reproduire une variété précise. II ne reste alors que la solution de la multiplication végétative : bouturage, marcottage et bien entendu greffage.
@@ -14,15 +14,15 @@ Ce nouvel arbre fruitier est produit en créant une "soudure" entre le greffon e
 
 Multiplier un arbre fruitier par méthode végétative, surtout si le bouturage est trop compliqué, voire impossible. 
 
-Obtenir un arbre bien adapté au sol .
+Obtenir un arbre bien adapté au sol.
 
 Apporter une meilleure résistance aux attaques de ravageurs et aux maladies ;
 
 Obtenir un arbre fruitier très vigoureux grâce à un porte-greffe franc ou, au contraire, un arbre plus petit grâce à un porte-greffe nanifiant ;
 
-Obtenir une mise à fruit plus rapide (  pour le pommier : 1 a 3 ans apres la greffe contre 10 a 15 ans pour un pépin )
+Obtenir une mise à fruit plus rapide (pour le pommier : 1 à 3 ans après la greffe contre 10 à 15 ans pour un pépin)
 
-Améliorer la qualité des fruits et une meilleure fertilité .
+Améliorer la qualité des fruits et une meilleure fertilité.
 
 Court-circuiter la pollinisation croisée naturelle en greffant un sujet mâle et un sujet femelle (dans le cas des espèces dioïques) sur le même porte-greffe ou des greffons de variétés différentes.
 
@@ -31,12 +31,12 @@ Court-circuiter la pollinisation croisée naturelle en greffant un sujet mâle e
 
 Il existe quelques inconvénients à la pratique de la greffe.
 
-La greffe nécessite un peu de matériel et de technique .
+La greffe nécessite un peu de matériel et de technique.
 
-La durée de vie de l'arbre greffé est sensiblement réduite.Pour un pommier issu de semis qui pourrait vivre 100 a 150 an, ne comptez qu'environ 30 ans pour un pommier greffé voir 10 ans sur du nanifiant.
+La durée de vie de l'arbre greffé est sensiblement réduite. Pour un pommier issu de semis qui pourrait vivre 100 à 150 an, ne comptez qu'environ 30 ans pour un pommier greffé voir 10 ans sur du nanifiant.
 
 Le point de greffe peut se révéler être un point de fragilité. Cette fragilité peut faire casser l'arbre par grand vent ou mauvaise manipulations, ainsi qu'une porte d'entrée pour les maladies ou les ravageurs.
 
-Une généralisation de la greffe, peut amener à la longue un appauvrissement génétique des arbres ( clones), donc un risque de sensibilité accrue aux maladies et ravageurs.
+Une généralisation de la greffe, peut amener à la longue un appauvrissement génétique des arbres (clones), donc un risque de sensibilité accrue aux maladies et ravageurs.
 
 Le porte-greffe peut prendre le dessus sur le greffon.

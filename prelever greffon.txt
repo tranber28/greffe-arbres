@@ -1,12 +1,12 @@
-
+﻿
 
 -- PRÉLEVER SES GREFFONS  --
 
 
 
-Les greffons sont prélevés à l’avance à un moment où ils sont en repos végétatif ( principalement en hiver), puis gardés en dormance durant quelques semaines à quelques mois.
+Les greffons sont prélevés à l’avance à un moment où ils sont en repos végétatif (principalement en hiver), puis gardés en dormance durant quelques semaines à quelques mois.
 
-Le principal risque est que les greffons se dessèchent . Ceci peut se produire dans plusieurs cas :
+Le principal risque est que les greffons se dessèchent. Ceci peut se produire dans plusieurs cas :
 
 - Si la conservation n’est pas optimum (oxydation, atmosphère trop sèche, température trop élevée,...)
 
@@ -18,20 +18,20 @@ La solution étant d’induire un décalage de végétation, en rallongeant la p
 
 -- La bonne période de récolte de greffon --
 
-il faut que le porte-greffon soit à l’arrêt total de végétation, et cela  varie  en fonction des espèces,de l’altitude et de l'expositions, cela peut être en :
+Il faut que le porte-greffon soit à l’arrêt total de végétation, et cela  varie  en fonction des espèces, de l’altitude et de l’exposition, cela peut être en :
 
 - Décembre-janvier : cerisier, pruniers, pêchers, amandiers…
 
-- Janvier-février : pommiers, poiriers, cognassier, nashis, mûrier, plaqueminier...
+- Janvier-février : pommiers, poiriers, cognassier, Nashi, mûrier, plaqueminier...
 
 - Février- mars : noyers, châtaigniers...
 
-- Presque toutes l'année si greffe en chip-budding pour certaine variété ( et mise en serre chauffée et contrôlée ...)
+- Presque toutes l'année si greffe en chip-budding pour certaine variété (et mise en serre chauffée et contrôlée ...)
 
 
 --  Définir ses critères de sélection--
 
-- les critères sont à définir en fonction de ces objectifs, ils peuvent être variés  :
+- les critères sont à définir en fonction de ces objectifs, ils peuvent être variés :
 
 Goût, résistance aux maladies, calibre, productivité, vigueur, port de l’arbre, période de floraison, période de récolte, conservation, pollinisation, souvenir ...
 
@@ -40,9 +40,9 @@ Goût, résistance aux maladies, calibre, productivité, vigueur, port de l’ar
 
 Plusieurs règles à respecter ici :
 
-- Se munir du bon matériel : sécateur parfaitement propre aiguisé et désinfecté, (spray d’alcool ,briquet, si on change d'arbre), sachet congélation,ficelle/élastique, étiquettes et crayon gras/feutre, un sac de transport.
+- Se munir du bon matériel : sécateur parfaitement propre aiguisé et désinfecté, (spray d’alcool, briquet, si on change d'arbre), sachet congélation, ficelle/élastique, étiquettes et crayon gras/feutre, un sac de transport.
 
-- Désinfecter entre chaque changement d’arbre pour éviter la transmission éventuelle de maladies, et prendre soin de ne pas poser le sécateur à même le sol et désinfecter la lame du sécateur .
+- Désinfecter entre chaque changement d’arbre pour éviter la transmission éventuelle de maladies, et prendre soin de ne pas poser le sécateur à même le sol et désinfecter la lame du sécateur.
 
 -  Toutes les branches ne conviennent pas à la production de greffons
 
@@ -52,11 +52,11 @@ Plusieurs règles à respecter ici :
 
 - Les greffons sont prélevés sur les pousses de l’année précédente. Ce sera les parties les plus jeunes de l’arbre.
 
-- Préférez les pousses ascendante, inclinées plus ou moins à 45° .
+- Préférez les pousses ascendantes, inclinées plus ou moins à 45°.
 
 - Couper les plus gros et plus longs greffons de la pousse de l’année.
 
-- Évitez les gourmands qui risquent d’avoir une mise à fruit tardive (reiteration de l’arbre).
+- Évitez les gourmands qui risquent d’avoir une mise à fruit tardive (réitération de l’arbre).
 
 - Récoltez les greffons en hiver, entre janvier et février pour les espèces précoces type prunier, abricotier, amandier, cerisier et jusqu’à début mars pour les espèces plus tardives ou plus haut en altitude.
 
@@ -77,12 +77,13 @@ Plusieurs règles à respecter ici :
 
 - Pour quelques semaines cela peut se faire au pied d’un mur exposé au nord, les bottes de greffons sont alors enterrées au ¾.
 
-- Pour une conservation plus longue (jusqu’à 6-7 mois) l’optimum est de les conserver dans un sachet hermétique sans air dans bac de réfrigérateur à 2°C (attention les température d’un frigo normale se situe vers 5-6°C et subit des variations à chaque ouverture, de plus si des fruits y sont aussi conservés de l’éthylène se dégage inhibant les bourgeons, l’idéal étant d’avoir un frigo dédié).
+- Pour une conservation plus longue (jusqu’à 6-7 mois) l’optimum est de les conserver dans un sachet hermétique sans air dans bac de réfrigérateur à 2°C (attention, la température d’un frigo normale se situe vers 5-6°C et subit des variations à chaque ouverture, de plus si des fruits y sont aussi conservés de l’éthylène se dégage inhibant les bourgeons, l’idéal étant d’avoir un frigo dédié).
 
 - Dans du sable et dans un endroit frais. L’idéal est le côté nord de la maison dans du sable légèrement humide. Le contenant pour le sable peut être un sceau, un bac, pot de fleurs ou n’importe quoi d’autre à condition que le fond soit percé pour que l’eau ne s’y accumule pas.
 
 
 Utiliser les greffons au fur et à mesure et vérifier leur état, des bourgeons débourrés ou l’écorce ridée indique que les greffons ne sont plus utilisables.
+
 
 
 

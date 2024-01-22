@@ -1,4 +1,4 @@
-Les variétés protégées sont interdites a l’échange!!
+﻿Les variétés protégées sont interdites à l’échange!!
 
 Le Certificat d’Obtention Végétale (COV) est un système de protection de la propriété industrielle sur les variétés végétales qui existe depuis les années 60. Il assure à l'obtenteur (celui qui a sélectionné la nouvelle variété protégée) une exclusivité d'utilisation de la variété protégée, mais autorise l'utilisation de cette variété protégée pour en sélectionner une nouvelle et la commercialiser si elle est suffisamment distincte.
 
@@ -14,13 +14,13 @@ https://www.produire-bio.fr/articles-pratiques/comment-savoir-si-une-variete-est
 
 Au niveau national (Geves et vivc.de)
 
-permet de vérifier si la variété est inscrite et protégée en France
+Permet de vérifier si la variété est inscrite et protégée en France
 Au niveau européen (https://online.plantvarieties.eu)
 
-si une variété est inscrite dans un pays européen mais pas en France
-==> cette variété est libre en France ( a confirmer)
-si une variété est inscrite dans l'union européenne
-==> cette variété est protégée en France
+Si une variété est inscrite dans un pays européen mais pas en France
+==> Cette variété est libre en France (à confirmer)
+Si une variété est inscrite dans l'union européenne
+==> Cette variété est protégée en France
 Exemple sur https://online.plantvarieties.eu
 
 
