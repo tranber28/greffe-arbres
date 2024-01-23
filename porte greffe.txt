@@ -68,14 +68,14 @@ Citrange Carrizo : Mise à fruit rapide et bonne productivité.
 
 Poncirus trifoliata ‘Flying Dragon’ : Ce porte-greffe de pousse très lente est utilisé pour produire des variétés naines.
 
-C35 : très vigoureux1, il est rustique jusqu’à environ -10/-11 degrés, il est tolérant au calcaire et aux ‘zones sèches’, mais il est sensible aux sols argileux et humides.
+C35 : très vigoureux, il est rustique jusqu’à environ -10/-11 degrés, il est tolérant au calcaire et aux ‘zones sèches’, mais il est sensible aux sols argileux et humides.
 
 
 - Pour les pommiers :
 
 Les variétés qui servent de porte-greffe pour les pommiers sont généralement des clones, obtenus par multiplication végétative, et désignés par la lettre M suivie d’un nombre.
 
-M2 (Doucin de Fontenay) : Il s’agit d’un porte-greffe vigoureux, adapté aux formes basse-tige, gobelet et palmette. La mise à fruit a lieu au bout de 5 à 6 ans. Peu exigeant quant à la qualité du sol, il tolère les sols secs et pauvres, et supporte bien le calcaire. Il est néanmoins sensible au puceron lanigère.
+M2 (Doucin de Fontenay) : Il s’agit d’un porte-greffe vigoureux, adapté aux formes basse-tige, gobelet et palmette. La mise à fruit a lieu au bout de 5 à 6 ans. Peu exigeant quant à la qualité du sol, il tolère les sols secs et pauvres et supporte bien le calcaire. Il est néanmoins sensible au puceron lanigère.
 
 M9 (Paradis jaune de Metz) : Il est adapté pour les formes compactes, en basse-tige ou espalier. Il se plait en terrain ordinaire, pas trop sec ni trop humide. Bonne productivité et mise à fruit rapide (2 à 4 ans). Il a tendance à drageonner.
 
@@ -120,16 +120,16 @@ Cerisier de Sainte-Lucie (Prunus mahaleb) : il est adapté aux terrains secs ou 
 
 Cerisier franc, Cerasus communis : Bien vigoureux, il est adapté pour les formes en haute tige.
 
-Tabel®édabriz : C’est un porte-greffe nanifiant utilisé par les professionnels pour les petits espaces et pour les jardinières sur les balcons.
+Tabelrédabriz : C’est un porte-greffe nanifiant utilisé par les professionnels pour les petits espaces et pour les jardinières sur les balcons.
 
-Maxma Delbard 14 ® : C’est un porte-greffe mi- nanifiant qui convient bien au gobelet et est compatible avec un grand nombre de variétés de cerises1.
+Maxma Delbard 14 ® : C’est un porte-greffe mi- nanifiant qui convient bien au gobelet et est compatible avec un grand nombre de variétés de cerises.
 
 Merisier F12.1 : De très forte vigueur, il convient pour les hautes tiges.
 
 
 - Pour les pruniers :
 
-Prunier myrobolan (Prunus cerasifera) :C’est le porte-greffe le plus courant pour le prunier. Il est très vigoureux, approprié pour les pruniers de plein vent ou en demi-tige car offrant un bon ancrage. Il est peu exigeant quant au terrain. Il est adapté aux sols secs et caillouteux, et tolère le calcaire. La mise à fruits et rapide, mais il a tendance à produire de nombreux rejets.
+Prunier myrobolan (Prunus cerasifera) :C’est le porte-greffe le plus courant pour le prunier. Il est très vigoureux, approprié pour les pruniers de plein vent ou en demi-tige car offrant un bon ancrage. Il est peu exigeant quant au terrain. Il est adapté aux sols secs et caillouteux, et tolère le calcaire. La mise à fruits est rapide, mais il a tendance à produire de nombreux rejets.
 
 Prunier St Julien : Il supporte les sols lourds et humides. Un peu moins vigoureux que le myrobolan, il convient bien aux formes en basses tiges et espaliers.
 
@@ -146,13 +146,13 @@ Prunier St Julien : De vigueur moyenne, il est idéal pour les formes en basse t
 
 Prunier myrobolan : Il a l’avantage d’être polyvalent et d’être bien adapté aux formes de plein vent.
 
-Franc GF 305.INRA ® : Pour sols sains, un peu lourd, à la rigueur un peu calcaire. De grande vigueur, pour demi-tiges et gobelet. Mise à fruits rapide.
+Franc GF 305.INRA ® : Pour sols sains, un peu lourds, à la rigueur un peu calcaires. De grande vigueur, pour demi-tiges et gobelet. Mise à fruits rapide.
 
 Pêcher X amandier GF 677 ® : De grande vigueur, il est pour tiges et demi-tiges. Pour sols secs bien que supportant mieux l'humidité que le franc, il accepte le calcaire dans une certaine limite.
 
-Rubira ® : Vigueur moyenne, plus faible que GF 305, pour gobelets et petites formes. Il supporte tous les sols, même asphyxiants, mais pas trop calcaire. Il résiste aux pucerons et à la bactériose.
+Rubira ® : Vigueur moyenne, plus faible que GF 305, pour gobelets et petites formes. Il supporte tous les sols, même asphyxiants, mais pas trop calcaires. Il résiste aux pucerons et à la bactériose.
 
-Julior Ferdor ® : De moyenne vigueur, pour gobelet, petites formes, il accepte toutes les variétés, et même les espèces prunier et amandier. Il admet les sols lourds un peu calcaires. Sa mise à fruits est rapide.
+Julior Ferdor ® : De moyenne vigueur, pour gobelet, petites formes, il accepte toutes les variétés et même les espèces prunier et amandier. Il admet les sols lourds un peu calcaires. Sa mise à fruits est rapide.
 
 
 - Pour les abricotiers :
@@ -183,7 +183,7 @@ Pêcher franc : Pour les sols secs, mais non calcaires. Mise à fruit rapide.
 
 Amandier franc (Prunus amygdalus) : Adapté aux sols secs et calcaires.
 
-Abricotier franc : Il donnera une bonne production, et sera adapté à des sols assez pauvres et caillouteux. Il supportera des régions calcaires, et redoutera avant tout l’humidité.
+Abricotier franc : Il donnera une bonne production et sera adapté à des sols assez pauvres et caillouteux. Il supportera des régions calcaires, et redoutera avant tout l’humidité.
 
 Prunier franc : Celui-ci est le moins utilisé, car il donne des arbres à longévité moindre. Cependant, c’est le seul porte-greffe adapté pour des régions plus humides, au sol plus argileux notamment.
 
@@ -196,7 +196,7 @@ Cognassier Sydo d’Angers : supporte le froid et l’humidité, mains craint le
 
 Cognassier franc : pour les sols frais et argileux, non calcaires. Mise à fruit rapide et bonne productivité.
 
-Sorbier des oiseleurs : Il résiste très bien au froid4. Se plaît en sols légers, pauvres et peut mesurer jusqu’à 20 mètres de haut4. Pour tiges.
+Sorbier des oiseleurs : Il résiste très bien au froid. Se plaît en sols légers, pauvres et peut mesurer jusqu’à 20 mètres de haut. Pour tiges.
 
 
 - Pour les noyers :

@@ -1,9 +1,9 @@
-﻿---Pourquoi greffés les fruitiers ? --
+﻿---Pourquoi greffer les fruitiers ? --
 
-Les arbres fruitiers, pommiers, poiriers, pruniers, cerisiers, agrumes..., sont souvent greffés.  Les deux principales raison sont : pouvoir reproduire fidèlement une variété et pouvoir adapter un fruitier à son sol.
+Les arbres fruitiers ; pommiers, poiriers, pruniers, cerisiers, agrumes, etc. sont souvent greffés.  Les deux principales raisons sont : pouvoir reproduire fidèlement une variété et pouvoir adapter un fruitier à son sol.
 
 
-Une graine d'un arbre est une fécondation croisée entre une même espèce. Cette graine donnera un arbre avec des caractéristiques mêlées des deux parents. C'est parfois bien pour obtenir une nouvelle variété, mais ça ne va pas si on souhaite reproduire une variété précise. II ne reste alors que la solution de la multiplication végétative : bouturage, marcottage et bien entendu greffage.
+La graine d'un arbre est une fécondation croisée entre une même espèce. Cette graine donnera un arbre avec des caractéristiques mêlées des deux parents. C'est parfois bien pour obtenir une nouvelle variété, mais ça ne va pas si on souhaite reproduire une variété précise. II ne reste alors que la solution de la multiplication végétative : bouturage, marcottage et bien entendu greffage.
 
 L'arbre fruitier sera obtenu par une greffe de la variété à reproduire : une petite partie de celui-ci, par exemple un rameau muni de quelques bourgeons. On appelle cette partie le greffon ou parfois écusson, dans le cadre de la greffe en écusson. Ce greffon sera greffé sur un porte-greffe : la partie racinée et bien ancrée dans le sol. En théorie, ce porte-greffe sera de la même espèce que le greffon. Pommier sur pommier, poirier sur poirier... Ou bien, sur une espèce botaniquement approchante : poirier sur cognassier ou pêcher sur prunier.
 
@@ -12,7 +12,7 @@ Ce nouvel arbre fruitier est produit en créant une "soudure" entre le greffon e
 
 ---Quels sont les avantages de la greffe des arbres fruitiers ? --
 
-Multiplier un arbre fruitier par méthode végétative, surtout si le bouturage est trop compliqué, voire impossible. 
+Multiplier un arbre fruitier par méthode végétative, surtout le bouturage est trop compliqué, voire impossible. 
 
 Obtenir un arbre bien adapté au sol.
 
@@ -33,10 +33,10 @@ Il existe quelques inconvénients à la pratique de la greffe.
 
 La greffe nécessite un peu de matériel et de technique.
 
-La durée de vie de l'arbre greffé est sensiblement réduite. Pour un pommier issu de semis qui pourrait vivre 100 à 150 an, ne comptez qu'environ 30 ans pour un pommier greffé voir 10 ans sur du nanifiant.
+La durée de vie de l'arbre greffé est sensiblement réduite. Pour un pommier issu de semis qui pourrait vivre 100 à 150 ans, ne comptez qu'environ 30 ans pour un pommier greffé voir 10 ans sur du nanifiant.
 
-Le point de greffe peut se révéler être un point de fragilité. Cette fragilité peut faire casser l'arbre par grand vent ou mauvaise manipulations, ainsi qu'une porte d'entrée pour les maladies ou les ravageurs.
+Le point de greffe peut se révéler être un point de fragilité. Cette fragilité peut faire casser l'arbre par grand vent ou mauvaise manipulation. Le point de greffe peut également être une porte d'entrée pour les maladies ou les ravageurs.
 
-Une généralisation de la greffe, peut amener à la longue un appauvrissement génétique des arbres (clones), donc un risque de sensibilité accrue aux maladies et ravageurs.
+Une généralisation de la greffe peut amener à la longue un appauvrissement génétique des arbres (clones)et donc un risque de sensibilité accrue aux maladies et ravageurs.
 
 Le porte-greffe peut prendre le dessus sur le greffon.

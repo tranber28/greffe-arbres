@@ -16,7 +16,7 @@ La solution étant d’induire un décalage de végétation, en rallongeant la p
 
 
 
--- La bonne période de récolte de greffon --
+-- La bonne période de récolte de greffons --
 
 Il faut que le porte-greffon soit à l’arrêt total de végétation, et cela  varie  en fonction des espèces, de l’altitude et de l’exposition, cela peut être en :
 
@@ -26,23 +26,23 @@ Il faut que le porte-greffon soit à l’arrêt total de végétation, et cela  
 
 - Février- mars : noyers, châtaigniers...
 
-- Presque toutes l'année si greffe en chip-budding pour certaine variété (et mise en serre chauffée et contrôlée ...)
+- Presque toute l'année si greffe en chip-budding pour certaines variétés (et mise en serre chauffée et contrôlée ...)
 
 
 --  Définir ses critères de sélection--
 
-- les critères sont à définir en fonction de ces objectifs, ils peuvent être variés :
+- les critères sont à définir en fonction de ses objectifs, ils peuvent être variés :
 
-Goût, résistance aux maladies, calibre, productivité, vigueur, port de l’arbre, période de floraison, période de récolte, conservation, pollinisation, souvenir ...
+Goût, résistance aux maladies, calibre, productivité, vigueur, port de l’arbre, période de floraison, période de récolte, conservation, pollinisation, souvenir, etc.
 
 
 --  La récolte des greffons --
 
 Plusieurs règles à respecter ici :
 
-- Se munir du bon matériel : sécateur parfaitement propre aiguisé et désinfecté, (spray d’alcool, briquet, si on change d'arbre), sachet congélation, ficelle/élastique, étiquettes et crayon gras/feutre, un sac de transport.
+- Se munir du bon matériel : sécateur parfaitement propre, aiguisé et désinfecté (spray d’alcool, briquet, si on change d'arbre), sachet congélation, ficelle/élastique, étiquettes et crayon gras/feutre, un sac de transport.
 
-- Désinfecter entre chaque changement d’arbre pour éviter la transmission éventuelle de maladies, et prendre soin de ne pas poser le sécateur à même le sol et désinfecter la lame du sécateur.
+- Désinfecter entre chaque changement d’arbre pour éviter la transmission éventuelle de maladies, prendre soin de ne pas poser le sécateur à même le sol et désinfecter la lame du sécateur.
 
 -  Toutes les branches ne conviennent pas à la production de greffons
 
@@ -60,7 +60,7 @@ Plusieurs règles à respecter ici :
 
 - Récoltez les greffons en hiver, entre janvier et février pour les espèces précoces type prunier, abricotier, amandier, cerisier et jusqu’à début mars pour les espèces plus tardives ou plus haut en altitude.
 
-- Récolter les greffons en été ou une autre période est possible, suivant les techniques de greffe et variété,  mais cela doit être très rapide et évitez les heures les plus chaudes.
+- Récolter les greffons en été ou une autre période est possible, suivant les techniques de greffe et variétés,  mais cela doit être très rapide et évitez les heures les plus chaudes.
 
 - S’organiser arbre par arbre pour bien étiqueter chaque variété, et ne pas les mélanger. Si besoin, recouper les greffons et les attacher par botte avec des élastiques avant de les emballer.
 
