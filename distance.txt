@@ -1,0 +1,41 @@
+Distance plantation en libre en mètre 
+
+abricot =     franc = 5x5
+          myrobolan = 7x7
+          
+agrumes =           = 6x6  
+
+amandier =          = 6x6
+
+cerisier = mahaleb = 5x5
+           franc   = 10x10 
+           
+châtaigner=        = 7x7
+
+coing     =        = 5x5
+
+figuier  =         = 5x5
+
+grenadier =        = 5x5
+
+noisetiers =       = 5x5 
+
+noyer   =          = 8x8
+
+Olivier =          = 7x7 ( 5x4 en trad)
+
+pêcher = St Julien = 5x5
+         myrobolan = 8x8
+         franc     = 8x8
+         
+poiriers = franc   = 10x10
+           cognassier= 4x4
+           aubépine = 3x3
+
+pommier  = bitterfelder/franc = 10x10
+           m111     = 8x8
+           
+prunier  = St Julien = 5x5
+           myrobolan = 8x8
+           
+vigne    = 1x1 à 1,5x1,5            
